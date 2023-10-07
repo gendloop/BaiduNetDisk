@@ -1,9 +1,9 @@
-# RepoName
+# BaiduNetDisk
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/BaiduNetDisk
 ```
 
 ## Notes
